@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>G4ND1V</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on G4ND1V</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>readme</title>
+    <link>https://quartz.jzhao.xyz/ctf-writeups/ebucket-2023/web/gif/readme</link>
+    <guid>https://quartz.jzhao.xyz/ctf-writeups/ebucket-2023/web/gif/readme</guid>
+    <description><![CDATA[ web / gif Category - HARD Description - I made a secure php web app where I can upload all my gifs. ]]></description>
+    <pubDate>Tue, 19 May 2026 16:11:12 GMT</pubDate>
+  </item><item>
+    <title>readme</title>
+    <link>https://quartz.jzhao.xyz/ctf-writeups/tryhackme/theserverfromhell/readme</link>
+    <guid>https://quartz.jzhao.xyz/ctf-writeups/tryhackme/theserverfromhell/readme</guid>
+    <description><![CDATA[ The Server From Hell Tryhackme The Server From Hell - Linux - Medium tryhackme.com/room/theserverfromhell Nmap # Nmap 7.93 scan initiated Sun Jun 11 15:46:45 2023 as: nmap -sC -sV -oA nmap/theserverfromhell 10.10.160.231 Nmap scan report for 10.10.160.231 Host is up (0.20s latency). ]]></description>
+    <pubDate>Tue, 19 May 2026 16:07:55 GMT</pubDate>
+  </item><item>
+    <title>readme</title>
+    <link>https://quartz.jzhao.xyz/ctf-writeups/tryhackme/startup/readme</link>
+    <guid>https://quartz.jzhao.xyz/ctf-writeups/tryhackme/startup/readme</guid>
+    <description><![CDATA[ Startup Tryhackme Startup - Linux - Easy tryhackme.com/room/startup Nmap └──╼ $nmap -sC -sV -oA nmap/startup 10.10.163.144 Starting Nmap 7.93 ( nmap.org ) at 2023-06-04 00:20 IST Nmap scan report for 10.10.163.144 Host is up (0.15s latency). ]]></description>
+    <pubDate>Tue, 19 May 2026 16:07:55 GMT</pubDate>
+  </item><item>
+    <title>README</title>
+    <link>https://quartz.jzhao.xyz/ctf-writeups/tryhackme/reverse-engineering-1/README</link>
+    <guid>https://quartz.jzhao.xyz/ctf-writeups/tryhackme/reverse-engineering-1/README</guid>
+    <description><![CDATA[ Reverse-Engineering. ]]></description>
+    <pubDate>Tue, 19 May 2026 16:07:55 GMT</pubDate>
+  </item><item>
+    <title>readme</title>
+    <link>https://quartz.jzhao.xyz/ctf-writeups/tryhackme/relevant/readme</link>
+    <guid>https://quartz.jzhao.xyz/ctf-writeups/tryhackme/relevant/readme</guid>
+    <description><![CDATA[ Revenant Room url: tryhackme.com/room/relevant Windows Medium room Nmap Scan └──╼ $nmap -sC -sV -oA nmap/relevant 10.10.51.178 Starting Nmap 7.93 ( nmap.org ) at 2023-06-01 00:38 IST Nmap scan report for 10.10.51.178 Host is up (0.19s latency). ]]></description>
+    <pubDate>Tue, 19 May 2026 16:07:55 GMT</pubDate>
+  </item><item>
+    <title>readme</title>
+    <link>https://quartz.jzhao.xyz/ctf-writeups/tryhackme/revenge/readme</link>
+    <guid>https://quartz.jzhao.xyz/ctf-writeups/tryhackme/revenge/readme</guid>
+    <description><![CDATA[ Revenge Revenge - Linux - Medium tryhackme.com/room/revenge Revenge - Linux - Medium After checkign website, I thought of using sql injection in /product/:id parameter └──╼ $sqlmap -u 10.10.133.191/products/1 --dump ___ __H__ ___ ___[&quot;]_____ ___ ___ {1.6.12#stable} |_ -| . ]]></description>
+    <pubDate>Tue, 19 May 2026 16:07:55 GMT</pubDate>
+  </item><item>
+    <title>readme</title>
+    <link>https://quartz.jzhao.xyz/ctf-writeups/tryhackme/internal/readme</link>
+    <guid>https://quartz.jzhao.xyz/ctf-writeups/tryhackme/internal/readme</guid>
+    <description><![CDATA[ Internal Tryhackme Internal - Linux - Hard tryhackme.com/room/internal Nmap Nmap scan report for internal.thm (10.10.46.201) Host is up (0.21s latency). ]]></description>
+    <pubDate>Tue, 19 May 2026 16:07:55 GMT</pubDate>
+  </item><item>
+    <title>readme</title>
+    <link>https://quartz.jzhao.xyz/ctf-writeups/tryhackme/ghizerctf/readme</link>
+    <guid>https://quartz.jzhao.xyz/ctf-writeups/tryhackme/ghizerctf/readme</guid>
+    <description><![CDATA[ ghizerctf Tryhackme ghizerctf - Linux - Medium tryhackme.com/room/ghizerctf Nmap Nmap scan report for 10.10.11.6 Host is up (0.16s latency). ]]></description>
+    <pubDate>Tue, 19 May 2026 16:07:55 GMT</pubDate>
+  </item><item>
+    <title>readme</title>
+    <link>https://quartz.jzhao.xyz/ctf-writeups/tryhackme/blog/readme</link>
+    <guid>https://quartz.jzhao.xyz/ctf-writeups/tryhackme/blog/readme</guid>
+    <description><![CDATA[ Blog Blog - Linux - Medium tryhackme.com/room/blog Nmap scan Starting Nmap 7.93 ( nmap.org ) at 2023-06-01 16:30 IST Nmap scan report for 10.10.241.16 Host is up (0.15s latency). ]]></description>
+    <pubDate>Tue, 19 May 2026 16:07:55 GMT</pubDate>
+  </item><item>
+    <title>day2</title>
+    <link>https://quartz.jzhao.xyz/ctf-writeups/tryhackme/adventofcyber2/day2</link>
+    <guid>https://quartz.jzhao.xyz/ctf-writeups/tryhackme/adventofcyber2/day2</guid>
+    <description><![CDATA[ [Day 2] [Web Exploitation] The Elf Strikes Back! Description This was a lot of information, so let’s put it all together and look at the full process for exploiting a file upload vulnerability in a PHP web application: Find a file upload point. ]]></description>
+    <pubDate>Tue, 19 May 2026 16:07:55 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

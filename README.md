@@ -1,3 +1,1 @@
-My Portfolio Website
-
-[website](https://krishnan-tech.github.io/)
+Blog: [website](https://krishnan-tech.github.io/)
