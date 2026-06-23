@@ -46,13 +46,10 @@ jobs:
         run: npm ci
 
       - name: Fix Quartz CLI permissions
-        run: chmod +x node_modules/.bin/quartz quartz/bootstrap-cli.mjs
+        run: chmod +x quartz/bootstrap-cli.mjs
 
       - name: Install Quartz plugins
         run: npx quartz plugin install --from-config
-
-      - name: Build Quartz
-        run: npx quartz build
 
       - name: Build Quartz
         run: npx quartz build
