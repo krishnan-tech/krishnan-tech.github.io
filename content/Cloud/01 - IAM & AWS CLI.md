@@ -49,7 +49,6 @@ Roles are used to attach IAM Policies for Services, for example if we want to gi
 ![[Pasted image 20260615170611.png]]
 
 ## IAM Guidelines & Best Practices
-
 - Don’t use the root account except for AWS account setup
 - One physical user = One AWS user
 - Assign users to groups and assign permissions to groups
@@ -59,21 +58,17 @@ Roles are used to attach IAM Policies for Services, for example if we want to gi
 - Use Access Keys for Programmatic Access (CLI / SDK)
 - Audit permissions of your account using IAM Credentials Report & IAM Access Advisor
 - Never share IAM users & Access Keys
-
 ## Summary
-
-• Users: mapped to a physical user, has a password for AWS Console
-• Groups: contains users only
-• Policies: JSON document that outlines permissions for users or groups
-• Roles: for EC2 instances or AWS services
-• Security: MFA + Password Policy
-• AWS CLI: manage your AWS services using the command-line
-• AWS SDK: manage your AWS services using a programming language
-• Access Keys: access AWS using the CLI or SDK
-• Audit: IAM Credential Reports & IAM Access Advisor
-
+-  Users: mapped to a physical user, has a password for AWS Console
+- Groups: contains users only
+- Policies: JSON document that outlines permissions for users or groups
+- Roles: for EC2 instances or AWS services
+- Security: MFA + Password Policy
+- AWS CLI: manage your AWS services using the command-line
+- AWS SDK: manage your AWS services using a programming language
+- Access Keys: access AWS using the CLI or SDK
+- Audit: IAM Credential Reports & IAM Access Advisor
 ## Practice Flaws.Cloud Level 1,2
-
 - ![[cloud/flaws.cloud/level1]]
 - ![[cloud/flaws.cloud/level2]]
 

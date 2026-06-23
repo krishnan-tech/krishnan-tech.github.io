@@ -40,21 +40,20 @@ It's a bad idea to configure `aws configure` and pass creds into EC2 instance, b
 From IAM roles for services ![[01 - IAM & AWS CLI#IAM Roles for Services]]
 `Select Instance -> Action -> Security -> IAM Role (choose role)`
 ## EC2 Dedicated Hosts
-• A physical server with EC2 instance capacity fully dedicated to your use
-• Allows you address compliance requirements and use your existing server- bound software licenses (per-socket, per-core, pe - VM software licenses)
-• Purchasing Options:
-• On-demand – pay per second for active Dedicated Host
-• Reserved - 1 or 3 years (No Upfront, Partial Upfront, All Upfront)
-• The most expensive option
-• Useful for software that have complicated licensing model (BYOL – Bring Your Own License)
-• Or for companies that have strong regulatory or compliance needs
+- A physical server with EC2 instance capacity fully dedicated to your use
+- Allows you address compliance requirements and use your existing server- bound software licenses (per-socket, per-core, pe - VM software licenses)
+- Purchasing Options:
+	- On-demand – pay per second for active Dedicated Host
+	- Reserved - 1 or 3 years (No Upfront, Partial Upfront, All Upfront)
+	- The most expensive option
+	- Useful for software that have complicated licensing model (BYOL – Bring Your Own License)
+	- Or for companies that have strong regulatory or compliance needs
 
 ## Which purchasing option is right for me?
-• On demand: coming and staying in resort whenever we like, we pay the full price
-• Reserved: like planning ahead and if we plan to stay for a long time, we may get a good discount.
-• Savings Plans: pay a certain amount per hour for certain period and stay in any room type (e.g.,
-King, Suite, Sea View, …)
-• Spot instances: the hotel allows people to bid for the empty rooms and the highest bidder keeps the rooms. You can get kicked out at any time
-• Dedicated Hosts: We book an entire building of the resort
-• Capacity Reservations: you book a room for a period with full price even you don’t stay in it
+- On demand: coming and staying in resort whenever we like, we pay the full price
+- Reserved: like planning ahead and if we plan to stay for a long time, we may get a good discount.
+- Savings Plans: pay a certain amount per hour for certain period and stay in any room type (e.g.,King, Suite, Sea View, …)
+- Spot instances: the hotel allows people to bid for the empty rooms and the highest bidder keeps the rooms. You can get kicked out at any time
+- Dedicated Hosts: We book an entire building of the resort
+- Capacity Reservations: you book a room for a period with full price even you don’t stay in it
 ![[Pasted image 20260616163340.png]]
