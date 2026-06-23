@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Krishnan Navadia
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -212,11 +212,12 @@ plugins:
       position: afterBody
       priority: 10
   - source: github:quartz-community/footer
-    enabled: true
+    enabled: false
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/krishnan-tech
+        Email: mailto:krishnannavadia@gmail.com
+        LinkedIn: https://linkedin.com/in/krishnan-navadia
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
