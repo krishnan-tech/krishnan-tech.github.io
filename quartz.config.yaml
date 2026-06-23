@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: g4nd1v.github.io
+  baseUrl: krishnan-tech.github.io
   ignorePatterns:
     - private
     - templates
