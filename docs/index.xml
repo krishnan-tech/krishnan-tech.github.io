@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Krishnan Navadia</title>
+      <link>https://krishnan-tech.github.io</link>
+      <description>Last 10 notes on Krishnan Navadia</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>HackTheBox</title>
+    <link>https://krishnan-tech.github.io/hackthebox/</link>
+    <guid>https://krishnan-tech.github.io/hackthebox/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 23 Jun 2026 19:55:35 GMT</pubDate>
+  </item><item>
+    <title>Portswigger</title>
+    <link>https://krishnan-tech.github.io/portswigger/</link>
+    <guid>https://krishnan-tech.github.io/portswigger/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 23 Jun 2026 19:55:35 GMT</pubDate>
+  </item><item>
+    <title>ctf-writeups</title>
+    <link>https://krishnan-tech.github.io/ctf-writeups/</link>
+    <guid>https://krishnan-tech.github.io/ctf-writeups/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 23 Jun 2026 19:55:35 GMT</pubDate>
+  </item><item>
+    <title>parrot</title>
+    <link>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/pwn/parrot/</link>
+    <guid>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/pwn/parrot/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 23 Jun 2026 19:55:35 GMT</pubDate>
+  </item><item>
+    <title>pwn</title>
+    <link>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/pwn/</link>
+    <guid>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/pwn/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 23 Jun 2026 19:55:35 GMT</pubDate>
+  </item><item>
+    <title>ebucket-2023</title>
+    <link>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/</link>
+    <guid>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 23 Jun 2026 19:55:35 GMT</pubDate>
+  </item><item>
+    <title>apps</title>
+    <link>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/rev/apps/</link>
+    <guid>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/rev/apps/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 23 Jun 2026 19:55:35 GMT</pubDate>
+  </item><item>
+    <title>rev</title>
+    <link>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/rev/</link>
+    <guid>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/rev/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 23 Jun 2026 19:55:35 GMT</pubDate>
+  </item><item>
+    <title>auth</title>
+    <link>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/web/auth/</link>
+    <guid>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/web/auth/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 23 Jun 2026 19:55:35 GMT</pubDate>
+  </item><item>
+    <title>web</title>
+    <link>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/web/</link>
+    <guid>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/web/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 23 Jun 2026 19:55:35 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
