@@ -1,9 +1,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://krishnan-tech.github.io/c2/sliver</loc>
+    <lastmod>2026-07-19T02:08:09.324Z</lastmod>
+  </url><url>
     <loc>https://krishnan-tech.github.io/cloud/01---iam--and--aws-cli</loc>
-    <lastmod>2026-06-23T20:40:08.000Z</lastmod>
+    <lastmod>2026-06-23T20:46:18.000Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/cloud/02---ec2-fundamentals</loc>
-    <lastmod>2026-06-23T20:40:08.000Z</lastmod>
+    <lastmod>2026-06-23T20:46:18.000Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/cloud/bigiamchallenge/challenge-1</loc>
     <lastmod>2026-06-23T20:40:08.000Z</lastmod>
@@ -458,420 +461,423 @@
     <loc>https://krishnan-tech.github.io/</loc>
     <lastmod>2026-06-23T20:22:20.000Z</lastmod>
   </url><url>
+    <loc>https://krishnan-tech.github.io/c2/</loc>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
+  </url><url>
     <loc>https://krishnan-tech.github.io/cloud/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/cloud/bigiamchallenge/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/cloud/flaws.cloud/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/hackthebox/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/portswigger/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/pwn/parrot/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/pwn/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/rev/apps/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/rev/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/web/auth/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/web/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/web/gif/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/web/ping_check/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/web/sqli_1/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/web/sqli_3/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/web/sqli_4/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/flaws.cloud/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/crypto/ancient_encodings/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/crypto/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/crypto/small_steps/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/forensics/alien_cradle/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/forensics/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/forensics/extraterrestrial_persistence/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/forensics/plaintext_tlearsure/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/hardware/critical_flight/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/hardware/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/pwn/labyrinth/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/pwn/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/rev/needle_in_a_haystack/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/rev/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/web/didactic_octo_paddles/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/web/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/web/drobots/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/web/gunhead/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/web/orbital/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/web/passman/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox-cyber-apocalypse-2023/web/trapped_source/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox/lame/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/hackthebox/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/jerseyctf-2023/bin/my-favorite-game/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/jerseyctf-2023/bin/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/jerseyctf-2023/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/jerseyctf-2023/bin/plain/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/jerseyctf-2023/web/i-got-the-keys/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/jerseyctf-2023/web/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/jerseyctf-2023/web/look-im-hacking/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/jerseyctf-2023/web/ninja-jackers/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/jerseyctf-2023/web/poisoined/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/jerseyctf-2023/web/put-the-cookie-down/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/jerseyctf-2023/web/timeless/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/jerseyctf-2023/web/xss-terminator/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/nitectf-2023/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/prostar/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/tryhackme/0day/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/tryhackme/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/tryhackme/25daysofchristmas/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/tryhackme/reverse-engineering/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/tryhackme/adventofcyber2/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/tryhackme/blog/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/tryhackme/ghizerctf/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/tryhackme/internal/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/tryhackme/relevant/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/tryhackme/revenge/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/tryhackme/reverse-engineering-1/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/tryhackme/startup/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/ctf-writeups/tryhackme/theserverfromhell/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/hackthebox</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/htb-active</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/smb</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/gpp-password</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/kerberos</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/kerberoasting</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/ldap</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/impacket</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/psexec</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/windows-ad</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/privilege-escalation</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/cve-2023-43364</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/docker</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/gitea</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/mysql</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/log4j</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/cve-2021-44228</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/xss</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/gobuster</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/ssti</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/htb-jerry</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/ctf</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/tomcat</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/bruteforce</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/war-file</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/reverse-shell</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/metasploit</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/windows</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/htb-markup</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/nmap</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/xxe</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/winbox</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/xml-injection</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/apache</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/php</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/ssh</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/batch-replacement</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/htb-nibbles</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/nibbleblog</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/cms</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/file-upload</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/sudo</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/bash-script</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/htb-sea</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/feroxbuster</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/wondercms</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/cve-2023-41425</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/hashcat</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/file-read</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/command-injection</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/linpeas</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/tunneling</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/htb-titanic</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/lfi</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/pbkdf2</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/sqlite</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/imagick</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/cve-2024-41817</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/cve-2023-2255</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/cve-2023-23752</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/joomla</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/kerbrute</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/wireshark</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/libreoffice</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/dpapi</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/mimikatz</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/gpo</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/chisel</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/tryhackme</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url><url>
     <loc>https://krishnan-tech.github.io/tags/</loc>
-    <lastmod>2026-06-23T20:44:43.373Z</lastmod>
+    <lastmod>2026-07-19T02:09:54.240Z</lastmod>
   </url></urlset>
