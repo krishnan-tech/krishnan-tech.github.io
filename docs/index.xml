@@ -6,65 +6,65 @@
       <description>Last 10 notes on Krishnan Navadia</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>C2</title>
-    <link>https://krishnan-tech.github.io/c2/</link>
-    <guid>https://krishnan-tech.github.io/c2/</guid>
+    <title>cve-2023-41425</title>
+    <link>https://krishnan-tech.github.io/tags/cve-2023-41425</link>
+    <guid>https://krishnan-tech.github.io/tags/cve-2023-41425</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 20 Jul 2026 16:14:29 GMT</pubDate>
+    <pubDate>Mon, 20 Jul 2026 22:37:51 GMT</pubDate>
   </item><item>
-    <title>Cloud</title>
-    <link>https://krishnan-tech.github.io/cloud/</link>
-    <guid>https://krishnan-tech.github.io/cloud/</guid>
+    <title>hashcat</title>
+    <link>https://krishnan-tech.github.io/tags/hashcat</link>
+    <guid>https://krishnan-tech.github.io/tags/hashcat</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 20 Jul 2026 16:14:29 GMT</pubDate>
+    <pubDate>Mon, 20 Jul 2026 22:37:51 GMT</pubDate>
   </item><item>
-    <title>BigIAMChallenge</title>
-    <link>https://krishnan-tech.github.io/cloud/bigiamchallenge/</link>
-    <guid>https://krishnan-tech.github.io/cloud/bigiamchallenge/</guid>
+    <title>file-read</title>
+    <link>https://krishnan-tech.github.io/tags/file-read</link>
+    <guid>https://krishnan-tech.github.io/tags/file-read</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 20 Jul 2026 16:14:29 GMT</pubDate>
+    <pubDate>Mon, 20 Jul 2026 22:37:51 GMT</pubDate>
   </item><item>
-    <title>flaws.cloud</title>
-    <link>https://krishnan-tech.github.io/cloud/flaws.cloud/</link>
-    <guid>https://krishnan-tech.github.io/cloud/flaws.cloud/</guid>
+    <title>command-injection</title>
+    <link>https://krishnan-tech.github.io/tags/command-injection</link>
+    <guid>https://krishnan-tech.github.io/tags/command-injection</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 20 Jul 2026 16:14:29 GMT</pubDate>
+    <pubDate>Mon, 20 Jul 2026 22:37:51 GMT</pubDate>
   </item><item>
-    <title>HackTheBox</title>
-    <link>https://krishnan-tech.github.io/hackthebox/</link>
-    <guid>https://krishnan-tech.github.io/hackthebox/</guid>
+    <title>linpeas</title>
+    <link>https://krishnan-tech.github.io/tags/linpeas</link>
+    <guid>https://krishnan-tech.github.io/tags/linpeas</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 20 Jul 2026 16:14:29 GMT</pubDate>
+    <pubDate>Mon, 20 Jul 2026 22:37:51 GMT</pubDate>
   </item><item>
-    <title>Portswigger</title>
-    <link>https://krishnan-tech.github.io/portswigger/</link>
-    <guid>https://krishnan-tech.github.io/portswigger/</guid>
+    <title>tunneling</title>
+    <link>https://krishnan-tech.github.io/tags/tunneling</link>
+    <guid>https://krishnan-tech.github.io/tags/tunneling</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 20 Jul 2026 16:14:29 GMT</pubDate>
+    <pubDate>Mon, 20 Jul 2026 22:37:51 GMT</pubDate>
   </item><item>
-    <title>ctf-writeups</title>
-    <link>https://krishnan-tech.github.io/ctf-writeups/</link>
-    <guid>https://krishnan-tech.github.io/ctf-writeups/</guid>
+    <title>htb-titanic</title>
+    <link>https://krishnan-tech.github.io/tags/htb-titanic</link>
+    <guid>https://krishnan-tech.github.io/tags/htb-titanic</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 20 Jul 2026 16:14:29 GMT</pubDate>
+    <pubDate>Mon, 20 Jul 2026 22:37:51 GMT</pubDate>
   </item><item>
-    <title>parrot</title>
-    <link>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/pwn/parrot/</link>
-    <guid>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/pwn/parrot/</guid>
+    <title>lfi</title>
+    <link>https://krishnan-tech.github.io/tags/lfi</link>
+    <guid>https://krishnan-tech.github.io/tags/lfi</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 20 Jul 2026 16:14:29 GMT</pubDate>
+    <pubDate>Mon, 20 Jul 2026 22:37:51 GMT</pubDate>
   </item><item>
-    <title>pwn</title>
-    <link>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/pwn/</link>
-    <guid>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/pwn/</guid>
+    <title>pbkdf2</title>
+    <link>https://krishnan-tech.github.io/tags/pbkdf2</link>
+    <guid>https://krishnan-tech.github.io/tags/pbkdf2</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 20 Jul 2026 16:14:29 GMT</pubDate>
+    <pubDate>Mon, 20 Jul 2026 22:37:51 GMT</pubDate>
   </item><item>
-    <title>ebucket-2023</title>
-    <link>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/</link>
-    <guid>https://krishnan-tech.github.io/ctf-writeups/ebucket-2023/</guid>
+    <title>sqlite</title>
+    <link>https://krishnan-tech.github.io/tags/sqlite</link>
+    <guid>https://krishnan-tech.github.io/tags/sqlite</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 20 Jul 2026 16:14:29 GMT</pubDate>
+    <pubDate>Mon, 20 Jul 2026 22:37:51 GMT</pubDate>
   </item>
     </channel>
   </rss>
